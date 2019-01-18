@@ -11,11 +11,16 @@ Configuration:
 
 Open git bash and navigte to the project as shown in the attached demo video.
 Run -> npm install cucumber --save-dev
-Run -> npm install selenium-webdriver --save-dev
-Run -> npm install cucumber
-Run -> yarn install
-Run -> npm i yarn
-Run Test:
 
+Run -> npm install selenium-webdriver --save-dev
+
+Run -> npm install cucumber
+
+Run -> yarn install
+
+Run -> npm i yarn
+
+Run Test:
 Run -> yarn run local-webserver
+
 Run -> yarn run wdio
